@@ -1,0 +1,6 @@
+apoker:
+	use HandCalculator
+	local function for converting to brain value
+HandCalculator:
+	make this work
+	allow for native function handling -- eric's class should be here instead
